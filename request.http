@@ -1,0 +1,34 @@
+@baseUrl = https://localhost:7191
+//dotnet dev-certs https --trust
+//
+### GET api/todos
+GET {{baseUrl}}/api/todos
+
+
+### GET By Id api/todos/ab123...
+@todoId = 3F2504E0-4F89-41D3-9A0C-0305E82C3301
+GET {{baseUrl}}/api/todos/{{todoId}}
+
+### POST todo api/todos
+
+POST {{baseUrl}}/api/todos
+Content-Type: application/json
+
+{
+    "title" : "fix the laptop"
+}
+
+
+### PUT todo api/todos/ab123...
+
+PUT {{baseUrl}}/api/todos/{{todoId}}
+Content-Type: application/json
+
+{
+    "title" : "fix the laptop (new)",
+    "completed": true
+}
+
+### DELETE todo api/todos/ab123...
+
+DELETE {{baseUrl}}/api/todos/{{todoId}}
