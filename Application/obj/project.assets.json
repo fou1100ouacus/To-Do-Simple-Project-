@@ -858,11 +858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Git0CloneTest\\ToDoSimpleProject\\To-Do-Simple-Project-\\src\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Programming\\Git0CloneTest\\cloneToDoSimpleProject\\To-Do-Simple-Project-\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Programming\\Git0CloneTest\\ToDoSimpleProject\\To-Do-Simple-Project-\\src\\Application\\Application.csproj",
+      "projectPath": "D:\\Programming\\Git0CloneTest\\cloneToDoSimpleProject\\To-Do-Simple-Project-\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Git0CloneTest\\ToDoSimpleProject\\To-Do-Simple-Project-\\src\\Application\\obj\\",
+      "outputPath": "D:\\Programming\\Git0CloneTest\\cloneToDoSimpleProject\\To-Do-Simple-Project-\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\windows 11\\s\\New folder\\NuGetPackages"
@@ -883,8 +883,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Programming\\Git0CloneTest\\ToDoSimpleProject\\To-Do-Simple-Project-\\src\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Programming\\Git0CloneTest\\ToDoSimpleProject\\To-Do-Simple-Project-\\src\\Domain\\Domain.csproj"
+            "D:\\Programming\\Git0CloneTest\\cloneToDoSimpleProject\\To-Do-Simple-Project-\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Programming\\Git0CloneTest\\cloneToDoSimpleProject\\To-Do-Simple-Project-\\Domain\\Domain.csproj"
             }
           }
         }

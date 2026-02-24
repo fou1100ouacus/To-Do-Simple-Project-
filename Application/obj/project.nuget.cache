@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAUHB2ELYHc=",
+  "dgSpecHash": "0XL4L/1J3Qk=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git0CloneTest\\ToDoSimpleProject\\To-Do-Simple-Project-\\src\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Programming\\Git0CloneTest\\cloneToDoSimpleProject\\To-Do-Simple-Project-\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",

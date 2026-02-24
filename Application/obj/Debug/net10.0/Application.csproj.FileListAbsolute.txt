@@ -29,3 +29,19 @@ D:\Downloads\projectCRUD\CRUD Using CQRS\CRUD Using CQRS\Application\obj\Debug\n
 D:\Downloads\projectCRUD\CRUD Using CQRS\CRUD Using CQRS\Application\obj\Debug\net10.0\refint\Application.dll
 D:\Downloads\projectCRUD\CRUD Using CQRS\CRUD Using CQRS\Application\obj\Debug\net10.0\Application.pdb
 D:\Downloads\projectCRUD\CRUD Using CQRS\CRUD Using CQRS\Application\obj\Debug\net10.0\ref\Application.dll
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\bin\Debug\net10.0\Application.deps.json
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\bin\Debug\net10.0\Application.dll
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\bin\Debug\net10.0\Application.pdb
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\bin\Debug\net10.0\Domain.dll
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\bin\Debug\net10.0\Domain.pdb
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Application.sourcelink.json
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Application.dll
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\refint\Application.dll
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\Application.pdb
+D:\Programming\Git0CloneTest\cloneToDoSimpleProject\To-Do-Simple-Project-\Application\obj\Debug\net10.0\ref\Application.dll

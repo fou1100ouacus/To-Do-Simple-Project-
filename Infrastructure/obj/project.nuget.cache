@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qRhbjpgiu28=",
+  "dgSpecHash": "KH32yH5TcvE=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Git0CloneTest\\ToDoSimpleProject\\To-Do-Simple-Project-\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Programming\\Git0CloneTest\\cloneToDoSimpleProject\\To-Do-Simple-Project-\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
